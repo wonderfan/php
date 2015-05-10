@@ -1,4 +1,6 @@
-**The entry point is the file index.php under the public directory**
+### The entry point 
+
++ the file index.php under the public directory
 
 ### The main content in the index.php
 
@@ -13,6 +15,12 @@
 
 + require the autoload.php from vendor
 + require the compile.php if it exists in the corresponding directory
+
+### The main content in the app.php
+
++ pass the current directory and construct application instance 
++ the class name is Illuminate\Foundation\Application
++ perform the singletion method on the http kernel, console kernel and exception handler
 
 
 
