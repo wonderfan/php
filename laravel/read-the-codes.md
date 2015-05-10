@@ -9,5 +9,10 @@
 + use the kernel handle the request
 + send the response
 
+### The main content in the autoload.php
+
++ require the autoload.php from vendor
++ require the compile.php if it exists in the corresponding directory
+
 
 
