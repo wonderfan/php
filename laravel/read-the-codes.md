@@ -1,4 +1,4 @@
-+ The entry point is the file index.php under the public directory;
+**The entry point is the file index.php under the public directory**
 
 ### The main content in the index.php
 
