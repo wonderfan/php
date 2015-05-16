@@ -25,7 +25,7 @@ The class ObjectManager in the namespace Magento\Framework\ObjectManager
 3. The get method is just utility tool of getting the instance from the shareed instance pool;
 4. It also provides one configure method which can be used to change the configuration.
 
-The class Magento\Framework\App\EnvironmentFactory:
+The class `Magento\Framework\App\EnvironmentFactory`:
 
 1. There are two modes: developer and compiled;
 2. Each environment has one concrete class: `Magento\Framework\App\ObjectManager\Environment\Compiled` and `Magento\Framework\App\ObjectManager\Environment\Developer`
