@@ -12,3 +12,9 @@ The main roles of the Boostrap object:
 3. use the front controller to do the dispatch work;
 4. construct the response object and send it to browser.
 
+The main content of the ObjectManager class:
+
+The namespace is Magent\Framework\App
+The class name is ObjectManager and its parent class is \Magento\Framework\ObjectManager\ObjectManager
+
+
