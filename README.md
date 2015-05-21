@@ -1,9 +1,9 @@
 ## PHP Development and Practice
 
+#### PHP Framework
+- Symfony
+- ZF2
 
-### The Symfony Framework
+#### E-Commerce Package
 
-#### The structure of Symfony project
-
-- The web directory 
 
