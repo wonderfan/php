@@ -7,5 +7,6 @@
 #### E-Commerce Package
 - PrestaShop
 - OpenCart
+- WooCommerce
 
 
