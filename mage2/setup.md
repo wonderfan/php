@@ -22,4 +22,4 @@
 
 - 运行命令： `composer install`
 - 浏览器安装：`http://localhost/magento2/setup`
-- 命令行安装
+- 命令行安装: `magento setup:install`
