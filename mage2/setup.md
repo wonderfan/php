@@ -15,7 +15,8 @@
 - 执行命令： `git clone -b master https://github.com/magento/magento2.git`
 - 修改php.ini：`openssl.cafile=C:\Users\ADMIN\AppData\Roaming\Composer\cacert.pem`
 - 配置auth.json：在window run中输入`%APPDATA%`找到composer
-`{"http-basic": {"repo.magento.com": {"username": "a5002579901dcf57cd45dec9360dd481","password": "91ff859c69f80276708519f01265a0d1"}}}`
+
+`{"github-oauth": {"github.com": "02e1a598ffba7e2ebc8a13ca3c98c879bfe3e17a"},"http-basic": {"repo.magento.com": {"username": "a5002579901dcf57cd45dec9360dd481","password": "91ff859c69f80276708519f01265a0d1"}}}`
   
 
 第四部：安装依赖包
