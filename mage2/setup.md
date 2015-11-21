@@ -11,3 +11,4 @@
 第三步：克隆代码
 
 - 代码仓库地址： https://github.com/magento/magento2
+- 执行命令： `git clone -b master https://github.com/magento/magento2.git`
