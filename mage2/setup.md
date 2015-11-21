@@ -18,5 +18,5 @@
 第四部：安装依赖包
 
 - 运行命令： `composer install`
-- 浏览器安装
+- 浏览器安装：`http://localhost/magento2/setup`
 - 命令行安装
