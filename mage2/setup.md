@@ -6,6 +6,7 @@
 第二步：安装git
 
 - 根据操作系统的类型选择对应的安装
+- xampp地址：http://sourceforge.net/projects/xampp/files/XAMPP%20Windows/
 
 
 第三步：克隆代码
