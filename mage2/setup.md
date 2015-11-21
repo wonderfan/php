@@ -13,6 +13,7 @@
 
 - 代码仓库地址： https://github.com/magento/magento2
 - 执行命令： `git clone -b master https://github.com/magento/magento2.git`
+- 配置auth.json：在window run中输入`%APPDATA%`找到composer
 
 
 第四部：安装依赖包
