@@ -16,12 +16,12 @@
 - 配置auth.json：在window run中输入`%APPDATA%`找到composer
   
     {
-       "http-basic": {
-          "repo.magento.com": {
-             "username": "a5002579901dcf57cd45dec9360dd481",
-             "password": "91ff859c69f80276708519f01265a0d1"
-          }
-       }
+    "http-basic": {
+    "repo.magento.com": {
+    "username": "a5002579901dcf57cd45dec9360dd481",
+    "password": "91ff859c69f80276708519f01265a0d1"
+    }
+    }
     }
   
 
