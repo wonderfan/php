@@ -9,4 +9,5 @@
 - OpenCart
 - WooCommerce
 
-
+## Class Autoload
+- Composer class autoloader
