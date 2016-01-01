@@ -6,3 +6,13 @@
 - 页面输出使用smarty;
 - controller's run method and content display;
 - hook register, perform and mechanism;
+
+
+
+The facets of controller:
+
+- __construct method;
+- init method;
+- post process method;
+- init header, content,footer methods;
+- display or display ajax method;
