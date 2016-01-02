@@ -16,3 +16,7 @@ The facets of controller:
 - post process method;
 - init header, content,footer methods;
 - display or display ajax method;
+
+Cart and Checkout process:
+
+- cart class and add into context;
