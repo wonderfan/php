@@ -20,3 +20,5 @@ The facets of controller:
 Cart and Checkout process:
 
 - cart class and add into context;
+- use file log and bind the instance to context object;
+
