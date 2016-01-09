@@ -5,3 +5,8 @@
   find the class file, require the file, then create one instance
 
 - parse the request and find the controller
+
+
+### MVC
+
+- router
