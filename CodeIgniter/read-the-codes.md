@@ -10,3 +10,6 @@
 ### MVC
 
 - router
+- hook;
+- controller and action;
+- model;
