@@ -1,1 +1,4 @@
-The left navigation style in the admin dashboard
+- The left navigation style in the admin dashboard;
+- the load and loader object;
+- the registry object;
+- the controller, model, view methods in the controller;
