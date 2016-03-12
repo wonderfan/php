@@ -4,6 +4,8 @@ The main code flow in the index.php:
 2. create the bootstrap object;
 3. use the bootstrap object to create application object;
 4. use the bootstrap to run the application;
+5. the application instane uses the object manager to create front controller;
+6. the front controller dispatches the request to action;
 
 The main roles of the Boostrap object:
 
