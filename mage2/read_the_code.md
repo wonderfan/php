@@ -32,5 +32,10 @@ The class `Magento\Framework\App\EnvironmentFactory`:
 1. There are two modes: developer and compiled;
 2. Each environment has one concrete class: `Magento\Framework\App\ObjectManager\Environment\Compiled` and `Magento\Framework\App\ObjectManager\Environment\Developer`
 
+Design Pattern:
+
+1. factory;
+2. builder;
+
 
 
