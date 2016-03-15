@@ -36,6 +36,8 @@ Design Pattern:
 
 1. factory;
 2. builder;
+3. DI;
+4. singleton
 
 
 
