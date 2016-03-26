@@ -13,3 +13,8 @@
 - hook;
 - controller and action;
 - model;
+
+### Key Points
+
+-  use router to get the action and method;
+-  use the UIR to get the request params;
