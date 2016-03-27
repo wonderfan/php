@@ -18,3 +18,4 @@
 
 -  use router to get the action and method;
 -  use the UIR to get the request params;
+-  the loader's role;
