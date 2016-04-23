@@ -6,3 +6,6 @@
 - `use composer init to create the composer.json file`
 - `user composer install or composer require command to install the libraries`
 - `add require 'vendor/autoload.php'; into your own php file`
+
+### The package list site
+- https://packagist.org
