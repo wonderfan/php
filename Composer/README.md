@@ -1,5 +1,5 @@
 ### How to install it?
-- `$crawler = $client->request('GET', 'http://www.symfony.com/blog/');`
+- `curl -s https://getcomposer.org/installer | php`
 - `sudo mv composer.phar /usr/local/bin/composer`
 
 ### How to use it?
