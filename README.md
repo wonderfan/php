@@ -9,5 +9,9 @@
 - OpenCart
 - WooCommerce
 
-## Class Autoload
+### Class Autoload
 - Composer class autoloader
+
+### PHP 7 Features
+- traits
+- assert
