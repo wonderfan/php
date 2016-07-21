@@ -11,6 +11,7 @@
 
 ### Class Autoload
 - Composer class autoloader
+- PHP Standard Recommendations
 
 ### PHP 7 Features
 - traits
