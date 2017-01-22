@@ -3,6 +3,7 @@
 #### PHP Framework
 - Symfony
 - ZF2
+- Laravel
 
 #### E-Commerce Package
 - PrestaShop
