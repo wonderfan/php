@@ -9,6 +9,7 @@
 - PrestaShop
 - OpenCart
 - WooCommerce
+- Magento
 
 ### Class Autoload
 - Composer class autoloader
